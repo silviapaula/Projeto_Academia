@@ -1,18 +1,21 @@
-## Getting Started
+----------------------------------------------------------------------------
+Este projeto é apenas uma simulação de um sistema de academia e não está 
+conectado a uma base de dados real. Os dados são mantidos apenas durante 
+a execução do programa e serão perdidos após o encerramento do mesmo.
+------------------------------------------------------------------------
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+TÍTULO DO PROJETO: Sistema de Academia
 
-## Folder Structure
+OBJETIVO DO PROJETO:O objetivo deste projeto é criar um sistema de gerenciamento 
+para uma academia. 
+O sistema oferece funcionalidades para cada tipo de membro da academia, como realizar login, 
+acessar treinos, calcular salários e cadastrar equipamentos.
 
-The workspace contains two folders by default, where:
+DATA: 03/07/2023
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+COMO INICIAR O PROJETO: Para iniciar o projeto, é necessário executar a classe Main, 
+que é o ponto de entrada do sistema. O projeto utiliza a linguagem de programação Java e 
+interface gráfica Swing, portanto, é necessário ter uma máquina com Java instalado para 
+executar o sistema.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+AUTORES: Silvia Paula e Jonas Matheus
