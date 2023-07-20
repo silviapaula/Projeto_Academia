@@ -1,12 +1,6 @@
-import javax.swing.SwingUtilities;
+package Classes;
 
-import Classes.AcademiaInterface;
-import Classes.Aluno;
-import Classes.Equipamento;
-import Classes.Gerente;
-import Classes.Recepcionista;
-import Classes.Treino;
-import Classes.Professor;
+import javax.swing.SwingUtilities;
 
 public class Main {
   public static void main(String[] args) {
@@ -63,3 +57,4 @@ public class Main {
 
   }
 }
+
